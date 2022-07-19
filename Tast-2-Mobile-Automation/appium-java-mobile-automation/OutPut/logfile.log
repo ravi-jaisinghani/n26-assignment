@@ -1,0 +1,96 @@
+INFO  | 2022-07-19 17:50:46 | [Log] - ************************ Setup  Started ************************
+INFO  | 2022-07-19 17:50:46 | [Log] - Fetching properties from Testdata file = MonefyTest.properties
+INFO  | 2022-07-19 17:50:59 | [Log] - Performing AppiumDriver Setup operation
+INFO  | 2022-07-19 17:50:59 | [Log] - Returning the AppiumDriver Instance
+INFO  | 2022-07-19 17:50:59 | [Log] - ************************ Setup  Completed ************************
+INFO  | 2022-07-19 17:50:59 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:50:59 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:50:59 | [Log] - $$$$$$$$$$$$$$$$$$$$$  Starting Test  monefyExpensePercentageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  | 2022-07-19 17:50:59 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:50:59 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:50:59 | [Log] - Clicking on launch page Continue button
+INFO  | 2022-07-19 17:51:00 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:00 | [Log] - Clicking on launch Control Page Continue button
+INFO  | 2022-07-19 17:51:01 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:01 | [Log] - Clicking on launch Ready Page Continue button
+INFO  | 2022-07-19 17:51:02 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:02 | [Log] - Clicking on Cancel button on Claim offer page
+INFO  | 2022-07-19 17:51:04 | [Log] - Clicked on Close claim offer page button
+INFO  | 2022-07-19 17:51:05 | [Log] - Clicked on income button
+INFO  | 2022-07-19 17:51:05 | [Log] - Setting text of Income amount
+INFO  | 2022-07-19 17:51:11 | [Log] - Clicked on Choose Category button
+INFO  | 2022-07-19 17:51:13 | [Log] - Clicked on Deposits Category button
+INFO  | 2022-07-19 17:51:25 | [Log] - Clicked on expense button
+INFO  | 2022-07-19 17:51:25 | [Log] - Setting text of Income amount
+INFO  | 2022-07-19 17:51:31 | [Log] - Clicked on Choose Category button
+INFO  | 2022-07-19 17:51:32 | [Log] - Clicked on Bills Category button
+INFO  | 2022-07-19 17:51:32 | [Log] - Verifying Bill Percentage on main page
+INFO  | 2022-07-19 17:51:32 | [Log] - Getting text of Bill Percentage on main view
+INFO  | 2022-07-19 17:51:35 | [Log] - ************************* Execution Completed for TestmonefyExpensePercentageTest******************
+INFO  | 2022-07-19 17:51:35 | [Log] - ************************ After Test  Started ************************
+INFO  | 2022-07-19 17:51:40 | [Log] - ************************ After Test  Completed ************************
+INFO  | 2022-07-19 17:51:40 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:51:40 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:51:40 | [Log] - $$$$$$$$$$$$$$$$$$$$$  Starting Test  monefyIncomeExpenseTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  | 2022-07-19 17:51:40 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:51:40 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:51:40 | [Log] - Clicking on launch page Continue button
+INFO  | 2022-07-19 17:51:40 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:40 | [Log] - Clicking on launch Control Page Continue button
+INFO  | 2022-07-19 17:51:41 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:41 | [Log] - Clicking on launch Ready Page Continue button
+INFO  | 2022-07-19 17:51:42 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:51:42 | [Log] - Clicking on Cancel button on Claim offer page
+INFO  | 2022-07-19 17:51:43 | [Log] - Clicked on Close claim offer page button
+INFO  | 2022-07-19 17:51:45 | [Log] - Clicked on income button
+INFO  | 2022-07-19 17:51:45 | [Log] - Setting text of Income amount
+INFO  | 2022-07-19 17:51:52 | [Log] - Clicked on Choose Category button
+INFO  | 2022-07-19 17:51:55 | [Log] - Clicked on Deposits Category button
+INFO  | 2022-07-19 17:52:05 | [Log] - Clicked on expense button
+INFO  | 2022-07-19 17:52:05 | [Log] - Setting text of Income amount
+INFO  | 2022-07-19 17:52:10 | [Log] - Clicked on Choose Category button
+INFO  | 2022-07-19 17:52:13 | [Log] - Clicked on Bills Category button
+INFO  | 2022-07-19 17:52:13 | [Log] - Getting text of Income view
+INFO  | 2022-07-19 17:52:13 | [Log] - Data is£1,000.00
+INFO  | 2022-07-19 17:52:13 | [Log] - Getting text of Expense view
+INFO  | 2022-07-19 17:52:14 | [Log] - Data is£1,000.00
+INFO  | 2022-07-19 17:52:14 | [Log] - Getting text of Balance view
+INFO  | 2022-07-19 17:52:14 | [Log] - Data isBalance £0.00
+INFO  | 2022-07-19 17:52:14 | [Log] - Verifying Income Amount on Main page
+INFO  | 2022-07-19 17:52:14 | [Log] - Getting text of Income view
+INFO  | 2022-07-19 17:52:14 | [Log] - Verifying Expense Amount on Main page
+INFO  | 2022-07-19 17:52:14 | [Log] - Getting text of Expense view
+INFO  | 2022-07-19 17:52:14 | [Log] - Verifying Balance Amount on Main page
+INFO  | 2022-07-19 17:52:14 | [Log] - Getting text of Balance view
+INFO  | 2022-07-19 17:52:15 | [Log] - ************************* Execution Completed for TestmonefyIncomeExpenseTest******************
+INFO  | 2022-07-19 17:52:15 | [Log] - ************************ After Test  Started ************************
+INFO  | 2022-07-19 17:52:19 | [Log] - ************************ After Test  Completed ************************
+INFO  | 2022-07-19 17:52:19 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:52:19 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:52:19 | [Log] - $$$$$$$$$$$$$$$$$$$$$  Starting Test  monefyVerifyMainPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  | 2022-07-19 17:52:19 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:52:19 | [Log] - ****************************************************************************************
+INFO  | 2022-07-19 17:52:19 | [Log] - Clicking on launch page Continue button
+INFO  | 2022-07-19 17:52:20 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:52:20 | [Log] - Clicking on launch Control Page Continue button
+INFO  | 2022-07-19 17:52:20 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:52:20 | [Log] - Clicking on launch Ready Page Continue button
+INFO  | 2022-07-19 17:52:21 | [Log] - Clicked on Continue button
+INFO  | 2022-07-19 17:52:21 | [Log] - Clicking on Cancel button on Claim offer page
+INFO  | 2022-07-19 17:52:23 | [Log] - Clicked on Close claim offer page button
+INFO  | 2022-07-19 17:52:23 | [Log] - Verifying income view field on main page
+INFO  | 2022-07-19 17:52:23 | [Log] - Getting text of Income view
+INFO  | 2022-07-19 17:52:24 | [Log] - Verifying expense view field on main page
+INFO  | 2022-07-19 17:52:24 | [Log] - Getting text of Expense view
+INFO  | 2022-07-19 17:52:25 | [Log] - Verifying Balance view field on main page
+INFO  | 2022-07-19 17:52:25 | [Log] - Getting text of Balance view
+INFO  | 2022-07-19 17:52:25 | [Log] - Verifying expense bill category field on main page
+INFO  | 2022-07-19 17:52:25 | [Log] - Getting text of Bill Percentage on main view
+INFO  | 2022-07-19 17:52:25 | [Log] - Verifying Menu button on main page
+INFO  | 2022-07-19 17:52:26 | [Log] - Clicked on Main Menu Tab button
+INFO  | 2022-07-19 17:52:26 | [Log] - ************************* Execution Completed for TestmonefyVerifyMainPageTest******************
+INFO  | 2022-07-19 17:52:26 | [Log] - ************************ After Test  Started ************************
+INFO  | 2022-07-19 17:52:30 | [Log] - ************************ After Test  Completed ************************
+INFO  | 2022-07-19 17:52:30 | [Log] - ************************ Teardown  Started ************************
+INFO  | 2022-07-19 17:52:30 | [Log] - Closing the AppiumDriver
+INFO  | 2022-07-19 17:52:30 | [Log] - ************************ Teardown  Completed ************************
