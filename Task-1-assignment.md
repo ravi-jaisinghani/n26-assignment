@@ -10,14 +10,23 @@
  - Version of applications installed on IOS/Android
 
 **Test Environments & URL**: Android OS and IOS
+
 **Start**: 15/7/22  10.00 AM(IST)
+
 **Tester**: Ravi Jaisinghani
+
 **Task Breakdown**:
+
 **Duration**: Short(60 Min)
+
 **Session Setup time**:20 Min
+
 **Test Design and Execution**:30 Min
+
 **Data Files**: N/A
+
 **Testing Notes**:
+
 **View**:
  - Successful installation on android
  - Successful installation on IOS
@@ -45,14 +54,23 @@
  - Verify Currencies tab functionality
 
 **Test Environments & URL**: IOS
+
 **Start**: 15/7/22  12.00 PM(IST)
+
 **Tester**: Ravi Jaisinghani
+
 **Task Breakdown**:
+
 **Duration**: Medium(90 Min)
+
 **Session Setup time**:10 Min
+
 **Test Design and Execution**:80 Min
+
 **Data Files**: N/A
+
 **Testing Notes**:
+
 **View**:
  - Balance and Category percentages is correct **(Automation candidate)**
  - expense addition and deletion is working fine **(Automation candidate)**
@@ -86,14 +104,23 @@
  - Verify usablity of accounts,settings,currency and Categories page
 
 **Test Environments & URL**: Android OS and IOS
+
 **Start**: 15/7/22  8.00 PM(IST)
+
 **Tester**: Ravi Jaisinghani
+
 **Task Breakdown**:
+
 **Duration**: Short(60 Min)
+
 **Session Setup time**:10 Min
+
 **Test Design and Execution**:45 Min
+
 **Data Files**: N/A
+
 **Testing Notes**:
+
 **View**:
 - proper size of buttons on Home,account,settings and other screens
 - easy to navigate to other screen from home page
