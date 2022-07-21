@@ -79,6 +79,7 @@
  - Setting > Budget is giving wrong output(Bug)
  - Setting > export functionality is working fine
  - home> filter is working fine
+ - export data functionality
 
 **Risks**:
  - currency page is not tested as it requires subscription
